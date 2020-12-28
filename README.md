@@ -2,6 +2,8 @@
 
 项目地址：[Payment Spring boot](https://github.com/NotFound403/payment-spring-boot)
 
+> 请选择对应版本的分支
+
 ## 说明
 
 大部分示例以单元测试呈现，请移步本项目`test`包下，目前包括：
